@@ -1,0 +1,1 @@
+alert("0 carpa copim fica batendo no amiguinho!!!")
